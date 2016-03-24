@@ -9,9 +9,11 @@
 title: MGC301
 email: 301@mogic.work
 description: > # this means to ignore newlines until "baseurl:"
-  一所位于上海市静安区的传统企业「益民食品厂」，因为产品的销量骤减，所以正面临着关厂的危机。其中有几十名少男少女想到一条妙计——成为偶像，只要他们成为偶像，食品厂的名气便会增加，而产品的销量亦会上升。就这样，几十位个性鲜明的少男少女决定一起努力成为偶像，希望可以凭借偶像的名气增加销量来挽救自己所喜爱的食品厂。
+  MGC301 非官方网站
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mgc301.github.io" # the base hostname & protocol for your site
+url: "https://mgc301.github.io" # the base hostname & protocol for your site
+permalink: pretty
+
 #twitter_username: jekyllrb
 github_username:  MGC301
 
